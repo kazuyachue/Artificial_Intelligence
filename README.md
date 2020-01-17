@@ -1,2 +1,2 @@
 # Artificial_Intelligence
- Python projects from AI course taken at TJHSST.
+ graphs, heuristics, constraint solvers, game trees, genetic algorithms, learning, natural language processing, agents
